@@ -9,7 +9,6 @@ import java.util.Comparator;
 
 /**
  *
- * @author Timwe
  */
 public class Student implements Comparator<Student> {
 
